@@ -11,8 +11,8 @@ API REST para cadastro e gerenciamento de produtos de uma loja virtual, desenvol
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
-cd loja
+git clone https://github.com/LuigiBerzaghi/loja-virtual-api.git
+cd loja-virtual-api/loja/loja
 ```
 
 ### 2. Compile o projeto

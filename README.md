@@ -26,7 +26,7 @@ mvn spring-boot:run
 ```
 
 ### 4. Acesse a aplicação
-A aplicação estará disponível em: http://localhost:8080
+A aplicação estará disponível em: `http://localhost:8080`
 
 ## 🗄️ Banco de Dados
 
